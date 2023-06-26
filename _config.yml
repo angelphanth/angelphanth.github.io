@@ -11,7 +11,7 @@ title:            MoNA
 tagline:          'MoNA'
 description:      'Testing'
 url:              http://angelphanth.github.io
-baseurl:          /
+baseurl:          /angelphanth.github.io
 
 author:
   name:           'Mark Otto'
@@ -22,5 +22,5 @@ paginate:         5
 # Custom vars
 version:          5
 
-# github:
-#   repo:           https://github.com/poole/hyde
+github:
+  repo:           https://github.com/poole/hyde
