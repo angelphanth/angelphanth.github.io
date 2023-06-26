@@ -9,8 +9,8 @@ permalink:        pretty
 title:            MoNA
 tagline:          'MoNA'
 description:      'Testing'
-url:              http://angelphanth.github.io
-baseurl:          /      
+url:              'http://angelphanth.github.io'
+baseurl:          '/angelphanth.github.io/'     
 
 author:
   name:           'Mark Otto'
