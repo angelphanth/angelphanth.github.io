@@ -7,10 +7,10 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            MoNA
 tagline:          'MoNA'
 description:      'Testing'
-url:              http://hyde.getpoole.com
+url:              http://angelphanth.github.io
 baseurl:          /
 
 author:
@@ -20,7 +20,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          5
 
-github:
-  repo:           https://github.com/poole/hyde
+# github:
+#   repo:           https://github.com/poole/hyde
