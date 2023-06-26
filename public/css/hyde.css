@@ -106,15 +106,17 @@ a.sidebar-nav-item:focus {
   padding: 1rem 1rem 1rem 1rem;
   color: rgba(255,255,255,.5);
   background: rgb(255,255,255);
-  background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9318321078431373) 33%, rgba(255,255,255,0.9598433123249299) 68%, rgba(255,255,255,0.16992734593837533) 100%);
+  background: linear-gradient(0deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9318321078431373) 20%, rgba(255,255,255,1) 60%, rgba(255,255,255,1) 100%);
 }
 
 .topbar ul {
   padding-left: 0;
+  height: 100%;
   list-style: none;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
 }
 
 .topbar li {
@@ -131,6 +133,7 @@ a.sidebar-nav-item:focus {
   display: block;
   line-height: 2;
   color: white;
+  text-align: center;
 }
 
 a.topbar-nav-item:hover,
@@ -149,6 +152,7 @@ a.topbar-nav-item:focus {
     position: fixed;
     left: 14rem;
     right: 0;
+    height: 5rem;
     padding: 1rem;
   }
 }
