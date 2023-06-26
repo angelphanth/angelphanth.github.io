@@ -10,7 +10,7 @@ title:            MoNA
 tagline:          'MoNA'
 description:      'Testing'
 url:              'http://angelphanth.github.io'
-baseurl:          '/angelphanth.github.io/'     
+baseurl:          ''     
 
 author:
   name:           'Mark Otto'
